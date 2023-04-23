@@ -1,0 +1,25 @@
+.APIdata-container {
+    padding: 1rem;
+}
+.post-cards-grid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.post-container {
+    box-shadow: 7px -4px 21px 1px rgba(0,0,0,0.38);
+}
+
+
+.tags {
+    display: flex;
+    justify-content: center;
+    gap: 0.5rem;
+}
+
+.tag-div {
+    background-color: #2196f3;;
+    color: white;
+    border-radius: 8px;
+    padding: 0.25rem;
+}
