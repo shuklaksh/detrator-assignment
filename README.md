@@ -1,46 +1,23 @@
-# Getting Started with Create React App
+DETRATOR ASSIGNMENT
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img width="1438" alt="Screenshot 2023-04-23 at 7 50 03 PM" src="https://user-images.githubusercontent.com/52699472/233845218-4e7ed0a7-6086-4070-8344-834f3d7a17b2.png">
 
-## Available Scripts
+The project is built on ReactJS and Material UI.
+Axios is also used to work with the API.
 
-In the project directory, you can run:
+The given data is card is coming from the given API - (https://dummyjson.com/posts)
 
-### `npm start`
+The structure of data is as follows:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![User ID](https://user-images.githubusercontent.com/52699472/233845695-30347a29-3ae7-47a8-9f1a-7afe5e90ed3c.png)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
+How to build and run this project:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  1.Clone this repository.
+  2.Execute npm install
+  3.Execute npm start
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Or you can directly access is through given link
+  Link : https://detrator-assignment-lakshayshukla.netlify.app/
